@@ -1,0 +1,32 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1695462790
+icon.svg::CompressedTexture2D::8782875264934164818::1695462560::1695462791::1::::<><>::
+main.tscn::PackedScene::3715447930227215830::1695462560::0::1::::<><>::uid://bdgtc66o321gt::::res://Background/background.jpeg<>uid://c40wccuxvthp::::res://Player/player.tscn
+README.md::TextFile::-1::1695462560::0::1::::<><>::
+::res://Background/::1695462560
+background.jpeg::CompressedTexture2D::2610532352369325663::1695462560::1695462792::1::::<><>::
+::res://Player/::1695462560
+player.gd::GDScript::-1::1695462560::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::201801963505468513::1695462560::0::1::::<><>::res://Player/player.gd<>uid://nha544bjgko0::::res://Spaceship Pack/ship_6.png
+::res://Spaceship Pack/::1695462560
+energy.png::CompressedTexture2D::668103642568233337::1695462560::1695462791::1::::<><>::
+Item_1.png::CompressedTexture2D::4552361026123919656::1695462560::1695462791::1::::<><>::
+item_2.png::CompressedTexture2D::692032944444413099::1695462560::1695462791::1::::<><>::
+item_3.png::CompressedTexture2D::7430343985606023009::1695462560::1695462791::1::::<><>::
+missile.png::CompressedTexture2D::28728196327609788::1695462560::1695462791::1::::<><>::
+planet_1.png::CompressedTexture2D::7368117115216707131::1695462560::1695462791::1::::<><>::
+planet_2.png::CompressedTexture2D::3382936085724423601::1695462560::1695462791::1::::<><>::
+planet_3.png::CompressedTexture2D::2021565941392140175::1695462560::1695462791::1::::<><>::
+planet_4.png::CompressedTexture2D::6199652750011140906::1695462560::1695462791::1::::<><>::
+planet_5.png::CompressedTexture2D::2496718927940810505::1695462560::1695462791::1::::<><>::
+planet_6.png::CompressedTexture2D::268351002432767918::1695462560::1695462791::1::::<><>::
+ship_1.png::CompressedTexture2D::8325140029182204369::1695462560::1695462791::1::::<><>::
+ship_2.png::CompressedTexture2D::9036945630170607839::1695462560::1695462791::1::::<><>::
+ship_3.png::CompressedTexture2D::11305400771438188::1695462560::1695462791::1::::<><>::
+ship_4.png::CompressedTexture2D::6467375845690733252::1695462560::1695462791::1::::<><>::
+ship_5.png::CompressedTexture2D::3891048089751294350::1695462560::1695462791::1::::<><>::
+ship_6.png::CompressedTexture2D::926960753424178877::1695462560::1695462791::1::::<><>::
+shot.png::CompressedTexture2D::1167017205057811956::1695462560::1695462791::1::::<><>::
+Space Ships Explosion.png::CompressedTexture2D::1109966498515702229::1695462560::1695462791::1::::<><>::
+turbo_blue.png::CompressedTexture2D::4544466140541449746::1695462560::1695462791::1::::<><>::
+turbo_green.png::CompressedTexture2D::9182202946318263691::1695462560::1695462791::1::::<><>::
