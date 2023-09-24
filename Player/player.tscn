@@ -30,8 +30,10 @@ _data = {
 
 [node name="Player" type="CharacterBody2D"]
 texture_filter = 1
-position = Vector2(977, 546)
+position = Vector2(964, 547)
 scale = Vector2(10, 10)
+collision_layer = 2
+collision_mask = 5
 script = ExtResource("1_omjp2")
 metadata/_edit_group_ = true
 
@@ -56,3 +58,6 @@ speed_scale = 2.0
 libraries = {
 "": SubResource("AnimationLibrary_8h53i")
 }
+
+[node name="Muzzle" type="Node2D" parent="."]
+position = Vector2(6.30001, -0.0999908)

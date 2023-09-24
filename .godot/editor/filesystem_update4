@@ -1,4 +1,10 @@
 res://Player/player.tscn
-res://main.tscn
+res://Laser/laser_weapon.tscn
+res://Laser/laser_weapon.gd
 res://Player/player.gd
-res://ParallaxBackground.gd
+res://Laser/laser.tscn
+res://Laser/laser.gd
+res://main.tscn
+res://Lasers/laser.tscn
+res://Lasers/laser.gd
+res://main.gd

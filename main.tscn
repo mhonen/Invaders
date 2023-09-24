@@ -1,16 +1,18 @@
-[gd_scene load_steps=4 format=3 uid="uid://bs615ctoh40tu"]
+[gd_scene load_steps=5 format=3 uid="uid://bs615ctoh40tu"]
 
+[ext_resource type="Script" path="res://main.gd" id="1_4ppa0"]
 [ext_resource type="Texture2D" uid="uid://bdgtc66o321gt" path="res://Background/background.jpeg" id="1_xfq6u"]
-[ext_resource type="Script" path="res://ParallaxBackground.gd" id="2_en1c5"]
+[ext_resource type="Script" path="res://Player/ParallaxBackground.gd" id="2_336th"]
 [ext_resource type="PackedScene" uid="uid://c40wccuxvthp" path="res://Player/player.tscn" id="2_v4cw8"]
 
 [node name="Main" type="Node"]
+script = ExtResource("1_4ppa0")
 
 [node name="Player" parent="." instance=ExtResource("2_v4cw8")]
 position = Vector2(287, 518)
 
 [node name="ParallaxBackground" type="ParallaxBackground" parent="."]
-script = ExtResource("2_en1c5")
+script = ExtResource("2_336th")
 
 [node name="ParallaxLayer" type="ParallaxLayer" parent="ParallaxBackground"]
 motion_mirroring = Vector2(1960, 20)
@@ -19,3 +21,5 @@ motion_mirroring = Vector2(1960, 20)
 offset_right = 1963.0
 offset_bottom = 1067.0
 texture = ExtResource("1_xfq6u")
+
+[node name="Lasers" type="Node" parent="."]
