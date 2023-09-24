@@ -1,4 +1,2 @@
-res://Player/player.tscn
 res://main.tscn
-res://Player/player.gd
-res://ParallaxBackground.gd
+res://Player/player.tscn
