@@ -30,7 +30,7 @@ _data = {
 
 [node name="Player" type="CharacterBody2D"]
 texture_filter = 1
-position = Vector2(455, 496)
+position = Vector2(977, 546)
 scale = Vector2(10, 10)
 script = ExtResource("1_omjp2")
 metadata/_edit_group_ = true
@@ -49,6 +49,7 @@ position = Vector2(-9.9, 1.89999)
 rotation = 1.5708
 texture = ExtResource("3_qqew6")
 hframes = 2
+metadata/_edit_group_ = true
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="Thrusters"]
 speed_scale = 2.0

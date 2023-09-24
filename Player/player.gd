@@ -3,7 +3,7 @@ extends CharacterBody2D
 var speed = 300
 
 # Needed to add the ready function so thruster animation will work.
-# Probably will use a vonready variable later to get rid of funtion
+# Probably will use a onready variable later to get rid of funtion
 func _ready() -> void:
 	$Thrusters/AnimationPlayer.play("thrust")
 	
